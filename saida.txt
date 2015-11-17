@@ -1,0 +1,2 @@
+Estou lendo direto do arquivo! :)
+Que no caso há outras linhas! \o/
